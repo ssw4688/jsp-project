@@ -886,6 +886,26 @@ button.btn_phoneNum {
     right: 0px;
 }
 
+button.btn_confirmNum {
+    width: 104px;
+    background-color: #46733f;
+    border: none;
+    color: #fff;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    margin: 0 auto;
+    cursor: pointer;
+    text-align: center;
+    height: 40px;
+    top: 0px;
+    right: 0px;
+}
+
+.btn_confirmNum {
+    position: absolute;
+}
+
 
 /* 여기 아래부터느 footer ============================================================================================================ */
 /* 여기 아래부터느 footer ============================================================================================================ */
