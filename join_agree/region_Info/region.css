@@ -513,22 +513,18 @@ li.nowMenu::after{
 /* 아래쪽부터 본문 내용 css ====================================================================================X */
 
 .sub03_tax_box {
-    border-top: 1px solid #333;
+    
     width: 100%;
 }
 
-/* 2420 */
 .sub03_tax_box li {
-    border-bottom: 1px solid #ccc;
-    padding: 35px 0;
-    display: flex;
+    border-bottom: 1px solid rgb(204, 204, 204);
+    padding: 0px 0px 28px 239px;
+    display: block;
+    margin-bottom: 20px;
+    margin-top: -71px;
 }
 
-.sub03_tax_box li {
-    border-bottom: 1px solid #ccc;
-    padding: 35px 0;
-    display: flex;
-}
 
 .sub03_tax_box li .tax_text {
     margin-left: -24px;
@@ -547,7 +543,7 @@ li.nowMenu::after{
 .btn_wrap {
     width: 100%;
     overflow: hidden;
-    margin: 5px 0;
+    margin: 15px 0;
 }
 
 .sub03_tax_box li .btn_wrap .button {
@@ -588,8 +584,9 @@ div.map{
 
 img.map_photos {
     display: block;
-    width: 80%;
+    width: 68%;
     margin:0 auto;
+    margin-bottom: 17px;
 }
 
 input[type="text"] {
